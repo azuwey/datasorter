@@ -1,0 +1,39 @@
+{
+  "name": "@azuwey/datasorter",
+  "displayName": "DataSorter",
+  "version": "0.0.1",
+  "description": "Data sorter is an 'easy' solution data tree modeling",
+  "main": "dist/index.js",
+  "types": "declarations/index.d.ts",
+  "repository": "https://github.com/azuwey/datasorter.git",
+  "author": "Azuwey",
+  "license": "BSD-3-Clause",
+  "private": false,
+  "keywords": [
+    "typescript",
+    "datasorter",
+    "data",
+    "sorter",
+    "tree",
+    "modeling",
+    "model",
+    "multiparental",
+    "multi",
+    "parental",
+    "multiple",
+    "parent",
+    "parents"
+  ],
+  "homepage": "https://github.com/azuwey/datasorter",
+  "bugs": {
+    "url": "https://github.com/azuwey/datasorter/issues"
+  },
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.6",
+    "ts-loader": "^4.0.0",
+    "typescript": "^2.7.2"
+  }
+}
